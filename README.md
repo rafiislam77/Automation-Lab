@@ -88,6 +88,7 @@ After running failed_login_reprot.txt we found there was no activity detected an
 ![image](https://github.com/user-attachments/assets/7974b738-1f76-4a1d-81ad-bfb7f95b8b48)
 ### Log Output using Pyhton 
 The expected out put will show the IP address with codes for failed login attempts and timestamp. status code “200” means successful login where as “404” means failed login and needs further analysis.
+
 ![image](https://github.com/user-attachments/assets/e9c54e16-d243-4bad-88d7-c399435cc854)
 
 ### Expected Output when moving the log for to a differnet location
